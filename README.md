@@ -1,6 +1,6 @@
 # Dash Puppet Module for Boxen
 [![Build
-Status](https://travis-ci.org/fundon/puppet-dash.png?branch=master)](https://travis-ci.org/fundon/puppet-dash)
+Status](https://travis-ci.org/boxen/puppet-dash.png?branch=master)](https://travis-ci.org/boxen/puppet-dash)
 
 Install [Dash](http://kapeli.com/dash), gives you instant offline access to 80+ API documentation sets.
 
