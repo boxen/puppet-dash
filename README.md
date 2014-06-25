@@ -1,7 +1,7 @@
 # Dash Puppet Module for Boxen
 [![Build Status](https://travis-ci.org/boxen/puppet-dash.svg?branch=master)](https://travis-ci.org/boxen/puppet-dash)
 
-Install [Dash](http://kapeli.com/dash), gives you instant offline access to 80+ API documentation sets.
+Installs [Dash](http://kapeli.com/dash), an API Documentation Browser and Code Snippet Manager. Dash stores snippets of code and instantly searches offline documentation sets for 150+ APIs.
 
 ## Usage
 
