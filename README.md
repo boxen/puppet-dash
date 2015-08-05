@@ -1,3 +1,7 @@
+# DEPRECATED
+
+This module is deprecated since boxen now works with [Homebrew cask](http://caskroom.io/)
+
 # Dash Puppet Module for Boxen
 [![Build Status](https://travis-ci.org/boxen/puppet-dash.svg?branch=master)](https://travis-ci.org/boxen/puppet-dash)
 
